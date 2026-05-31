@@ -1,0 +1,2 @@
+# Product-chain runs are created in the user's working directory, not committed with the plugin.
+products/

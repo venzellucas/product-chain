@@ -1,0 +1,10 @@
+{
+  "name": "product-chain",
+  "version": "0.1.0",
+  "description": "An autonomous product chain: takes a raw idea and drives it through framing, market research, go/pivot/kill validation, a feasibility blueprint, and a semi-autonomous build — pausing only at the decisions that need a human.",
+  "author": {
+    "name": "Lucas Venzel"
+  },
+  "keywords": ["product", "discovery", "validation", "market-research", "prd", "agents", "workflow"],
+  "license": "MIT"
+}

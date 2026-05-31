@@ -1,0 +1,16 @@
+{
+  "name": "venzel-tools",
+  "owner": {
+    "name": "Lucas Venzel"
+  },
+  "description": "Lucas Venzel's Claude Code plugins.",
+  "plugins": [
+    {
+      "name": "product-chain",
+      "source": "./",
+      "description": "Autonomous idea→platform chain: frame → research → validate → blueprint → build.",
+      "category": "product",
+      "tags": ["product", "discovery", "validation"]
+    }
+  ]
+}
